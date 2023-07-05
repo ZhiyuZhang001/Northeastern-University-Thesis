@@ -19,4 +19,4 @@ LaTeX排版会自动调整，由于第二章只包括许多小标题，因此段
 
 ![image](封面.png)
 
-![image](独创性声明.png)
+![image](C:/Users/86293/Desktop/暂时图片/独创性声明.png)
