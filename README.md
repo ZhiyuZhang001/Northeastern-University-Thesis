@@ -1,2 +1,2 @@
 # Northeastern-University-Thesis
-用LaTeX写的东北大学硕士学位论文
+用LaTeX写的东北大学材料科学与工程学院硕士学位论文
