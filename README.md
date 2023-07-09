@@ -11,7 +11,8 @@
 
 为了使页码准确，每一小部分至少包括两页，如目录、参考文献。
 
-现在参考文献标准是gb7714-2015，但默认的仍然是姓名首字母大写，可以在代码相应位置修改为\usepackage[style=gb7714-2015,gbnamefmt=lowercase]{biblatex}
+现在参考文献标准是gb7714-2015，但默认的仍然是姓名首字母大写，可以在代码相应位置修改为
+\usepackage[style=gb7714-2015,gbnamefmt=lowercase]{biblatex}；
 
 LaTeX排版会自动调整，由于第二章只包括许多小标题，因此段落之间的空白很大。
 
